@@ -1,9 +1,7 @@
 <?php
-echo '<ul id="top-bar">
-<li>Nordic Network</li>
-<li>Sign up</li>
-<li>Sign in</li>
-<li>About</li>
-<li>Contact Us</li>
-</ul>';
+echo '<a href="index.html">Nordic Network</a>
+<a href="register.html">Sign up</a>
+<a href="login.html">Sign in</a>
+<a href="about.html">About</a>
+<a href="contact.html">Contact Us</a>';
 ?>
