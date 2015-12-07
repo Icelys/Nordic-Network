@@ -53,6 +53,10 @@
   margin-top: 5px;
 }
 
+ul#top-bar li {
+  display: inline;
+}
+
 .round-edges {
   border-radius: 25px;
 }
